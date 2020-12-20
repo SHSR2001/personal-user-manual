@@ -1,17 +1,3 @@
-# Personal User Manual Template
-
-Welcome to the Personal User Manual Template! Simply click "Use this template" above to create your own copy. You may want to read [The Pitch/Anti-Pitch for Personal User Manuals](https://medium.com/@caminmccluskey/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) first.
-
-### Serving Your Personal User Manual as a Website
-
-[Example](https://camin-mccluskey.github.io/Personal-User-Manual)
-
-1. Click "Use this template" above to create a copy in your Github space. For help with this see [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
-2. Change the repository name to `personal-user-manual`.
-3. Edit the sections below to make it uniquely yours. Remember to delete everything inside the the `<details>` tags to remove the help tips.
-4. Go to Settings and scroll down to Github Pages then change the source to `master`. You can also set a new theme here.
-5. Visit `https://<your-github-username>.github.io/personal-user-manual` to see your work!
-
 ## About Me
 
 Originally from Bangalore, India, I am currently a second year undergraduate studying Engineering Systems Design at the Singapore University of Technology and Design with a focus on Business Analytics. I have a keen interest in Blockchain Technology, especially in the intersection of Game Theory and Blockchain. I also am really keen on learning more about the potential use cases of Blocklchain technology in the industry. In my free time I love to play the drums and listen to rock music! My other hobbies include struggling to cook a simple meal in the kitchen!
