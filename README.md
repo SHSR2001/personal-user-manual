@@ -14,77 +14,43 @@ Welcome to the Personal User Manual Template! Simply click "Use this template" a
 
 ## About Me
 
-
-<details>
-    <summary>Tips</summary>
-Optional Section: You may want to fill out this as a section to help introduce yourself to new joiners or to people from outside your team. Feel free to keep it light and don't worry about going into much detail about yourself in a professional sense, as that can be covered by later sections. Some suggested points might be where you grew up, what your hobbies are or a fun fact about yourself.
-</details>
+Originally from Bangalore, India, I am currently a second year undergraduate studying Engineering Systems Design at the Singapore University of Technology and Design with a focus on Business Analytics. I have a keen interest in Blockchain Technology, especially in the intersection of Game Theory and Blockchain. I also am really keen on learning more about the potential use cases of Blocklchain technology in the industry. In my free time I love to play the drums and listen to rock music! My other hobbies include struggling to cook a simple meal in the kitchen!
 
 ## How to Contact Me
 
-
-<details>
-    <summary>Tips</summary>
-Essential Section: You might want to think about some caveats here. Perhaps Slack is fine for a quick question but for longer communication you'd prefer to speak in person.
-</details>
+I prefer being contacted on Whatsapp or Telegram for any urgent communication. However when possible I prefer to settle things over a Google meets or simple phone call so that it is easier to articulate and communicate the point accross more easily. I prefer to follow up every call with a summary of the key points discussed over a message on Telegram/Whatsapp for future reference. I may reply to emails a lot slower due to the fact that it takes longer and bit more effort to craft an email with the right format etc. 
 
 ## Preferred Working Style
 
-
-<details>
-    <summary>Tips</summary>
-Recommended Section: This section is pretty open to interpretation. You might want to think about practical details like what time of day you focus best, or whether you have external commitments at specific times. Equally you can include more abstract details like whether you find certain kinds of collaboration helpful to get your work done (pairing or shadowing work for example).
-</details>
+* I prefer to have a set of clear cut goals and deliverables that need to be completed by the end of the day so that I can plan and organise my work a lot more systematically 
+* In general, I like to have my work planned out (But not to the second) and would always work towards meeting the days target no matter however longer I would need to work and finish it becuase if I have some backlog from the previous days it really bothers me 
+* Given the option, I sometimes might like to work on site rather than from home as that would give me a change in envorinment from the university hostel which I do need very much from time to time 
+* I would generally follow up with my supervisors on a day to day basis giving a summary of what I have done for the day
+* I generally do prefer the hustle lifestyle over a slow paced one since such an environment would always keep me on my toes and give me a sense of purpose and fullfilment 
+* I would love to get to know my co-workers on a more personal note by going out with them for meals and really connecting with them better
+* I also really appreciate being given the opportunity of being entrepreneurial while still being a part of a larger organisation
 
 ## What Motivates Me
 
-
-<details>
-    <summary>Tips</summary>
-Recommended Section: Think about what gives you energy in work. What, about the work that you do, motivates you to push yourself? This doesn't need to be inspirational, it can be as simple as you enjoying seeing the results. The purpose of this section is to help your line manager and squad members to gain a picture of the work each person finds meaningful and interesting.
-</details>
+Seeing my work being put to use and having impact within and outside the organization is what really drives me! Knowing that I am an indispensable resource to an organization is what gives what motivates me to keep at my work. I am really passionate about learning new things especially in the areas I am interested in exploring and I do enjoy a challenge every now and then!
 
 ## What Demotivates Me
 
-
-<details>
-    <summary>Tips</summary>
-Recommended Section: The flip side of the above. Everyone has parts of their work they find less interesting, and they won't be the same for everyone. You never know, a task you find impossibly tedious might be something someone else really enjoys - if so, you've discovered a win-win!
-</details>
+Not being recognized for the effort that I put in and not being taken seriously during meetings and discussions are two things that really demotivate me. That being said if I have genuienly not performed a task up to the expectation I would highly appreciate any feedback on how it can be improved and I really value an honest opinion. 
 
 ## My Values (and what I value in others)
 
-
-<details>
-    <summary>Tips</summary>
-Recommended Section: Accepting that we all treat each other with empathy, care and respect as a baseline. What values do you hold in the highest regard? What traits make you admire a person?
-</details>
+* Empathy is something that I really value in leaders and co-workers. Being understanding to one's situation and responding accordingly is in my opinion a true mark of a leader.
+* As mentioned before, honest feedback and opinions is also something that I really value 
 
 ## My Blind Spots
 
+* Social anxiety is one blind spot of mine. Sometimes in meeting I might not know what to say or how it is appropriate to react. In other situations the conversations that I sport might easily go dry because I might not know what to say next to keep the ball rolling.
+* Another blind spot of mine is that sometimes I tend to overcommit and sign up for too many things. While I do try my absolute best to ensure that I keep up my end of the bargain sometimes when things get too much to handle I would need to compramise on the smaller things.
 
-<details>
-    <summary>Tips</summary>
-Recommended Section: Everyone needs help sometimes. This is a good section to list the things you know you need help with or actively want feedback on. One caveat is that listing something here doesn't automatically excuse it! If you know you need to work on a particular area then please make sure you are doing so, soliciting feedback to measure your progress.
-</details>
-
-## My Pet Peeves
-
-
-<details>
-    <summary>Tips</summary>
-Optional Section: It might be tempting to use this section to vent, that's absolutely fine but the more constructive the better. If there are simple things people can reasonably avoid doing, then list them here. Bear in mind that you will also need to also read your squad members' pet peeves section, it's a 2 way street.
-</details>
 
 ## Other
 
-
-<details>
-    <summary>Tips</summary>
-Optional Section: There are some sections that are deliberately omitted from this template, but which arguably should be here - depending on your role, how comfortable you are sharing with your team etc. You may want to include these or use them as inspiration for your own.
-
-- "How I like my 1:1s" - This might be more relevant for managers to set expectations of their direct reports. Although direct reports certainly should have a say in how their 1:1s are structured
-- "Quirks" - While this is a fun one, there is a temptation to hide behaviour here that probably should be worked on instead. Additionally, behaviour is complex, situation dependent and evolving. Stating you have a particular quirk makes it immutable and sets the expectation that you will always act like this. That said please feel free to include a section like this as it's a good icebreaker, and adds a personal touch. Just be aware that you might be unaware of some of your own "quirky" behaviour.
-- "How to interpret my calendar" - If you're someone with wall to wall meetings every day it might be difficult for colleagues to find a good time to speak with you. If this is the case, then this section might be helpful to outline when you typically could make time for them.
-- "What you can expect from me" - Another one that might be useful for line managers, career coaches and mentors more than ICs. You may want to use this to set expectations around how often you'll be scheduling catchups, how you share feedback and what sort of support you can offer.
-</details>
+* I love coffee a lot especially a good cappuccino and a latte. 
+* I love pets especially really cute puppies and kittens 
+* I easily bond with anyone with a great taste in music xD
