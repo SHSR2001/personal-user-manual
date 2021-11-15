@@ -1,3 +1,5 @@
+# Shyam Sridhar
+
 ## About Me
 
 Originally from Bangalore, India, I am currently a final year undergraduate studying Engineering Systems Design at the Singapore University of Technology and Design with a minor in Computer Science. I am also currently working as a Research Assistant at the Ethereum Foundation, under the Robust Incentives Group. I have a keen interest in Blockchain Technology, specifically in Blockchain Consensus, Incentive Design, Cryptoeconomics and Game Theory! I also am really keen on learning more about Cryptography and Distributed Systems. My long-term goal is to design a Blockchain protocol that can sufficiently address current problems in security, privacy and scalability.
