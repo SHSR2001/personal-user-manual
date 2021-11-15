@@ -1,6 +1,6 @@
 # Shyam Sridhar
 
-## About Me
+# About Me
 
 Originally from Bangalore, India, I am currently a final year undergraduate studying Engineering Systems Design at the Singapore University of Technology and Design with a minor in Computer Science. I am also currently working as a Research Assistant at the Ethereum Foundation, under the Robust Incentives Group. I have a keen interest in Blockchain Technology, specifically in Blockchain Consensus, Incentive Design, Cryptoeconomics and Game Theory! I also am really keen on learning more about Cryptography and Distributed Systems. My long-term goal is to design a Blockchain protocol that can sufficiently address current problems in security, privacy and scalability.
 
@@ -8,7 +8,7 @@ Previously, I worked at Tribe Academy - a dedicated educational institute curate
 
 I have also co-authored a [self paced course on Blockchain Technology](https://self-paced-course.opennodes.com/)!
 
-## My Work at the Ethereum Foundation 
+# My Work at the Ethereum Foundation 
 
 As an RA for the Ethereum Foundation, I have the chance to collaborate with some of the leading minds in the industry and take part in regular research discussions with them where we dissect papers spanning across various topics in Blockchain ranging from cryptoeconomics, to cryptography and classical consensus. Ever since I have joined the Foundation, I have had the privilege of working on three exciting long term projects
 
@@ -30,7 +30,7 @@ Finally, a major part of my work is also focused at analysing on-chain mempool d
 
 I have co-authored a **research paper** on the topic and am in the process of publishing another one in a few days yime 
 
-## Past Research Experience 
+# Past Research Experience 
 
 ### Resource Allocation and the Blockchain Mining Economy
 
@@ -42,7 +42,7 @@ I have co-authored a **research paper** on the topic and am in the process of pu
   - Using ML/AI tools to understand large scale multi-agent systems
 
 
-## Technical Projects 
+# Technical Projects 
 
 ### Port Optimization using Splinter and Hyperledger Fabric
 
@@ -58,3 +58,4 @@ I have co-authored a **research paper** on the topic and am in the process of pu
 - We received a grant of SGD 10,500 from Zilliqa Research for the project
 - It was a tremendous learning opportunity for me to get exposed to a number of cool and interesting aspects of leading a project from the idea conceptualization to the team recruitment, and the more technical smart contract development and web interface wireframe development.
 
+# Publications
