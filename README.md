@@ -57,3 +57,27 @@ I have co-authored a **research paper** on the topic and am in the process of pu
 - It was a tremendous learning opportunity for me to get exposed to a number of cool and interesting aspects of leading a project from the idea conceptualization to the team recruitment, and the more technical smart contract development and web interface wireframe development.
 
 # Publications
+
+### Conference Publications
+
+- Transaction Fees on a Honeymoon: Ethereum's EIP-1559 One Month Later, D. Reijsbergen, S. Sridhar, B. Monnot, S. Leonardos, S. Skoulakis, G. Piliouras. **To appear in The 4th IEEE International Conference on Blockchain, Melbourne, Australia.** [arxiv](https://arxiv.org/abs/2110.04753)
+- 
+- Allocation of Mining Resources in the Blockchain Economy, S. Leonardos, S. Sridhar, Y.K Chueng, G. Piliouras. **Appeared in WINE 2020, Workshop in Game Theory and Blockchain ** [official](https://econcs.pku.edu.cn/wine2020/wine2020/Workshop/GTiB20_paper_1.pdf) [presentation](https://www.youtube.com/watch?v=ll3IuOr1VSw)
+
+### Ongoing Work
+
+- From Griefing to Stability in Blockchain Mining Economies, Y.K Chueng, S. Leonardos, G. Piliouras ,S. Sridhar. [arxiv](https://arxiv.org/abs/2106.12332)
+
+### Other Publications 
+
+- Measuring Decentralization in PoS Ethereum, S Sridhar, https://shsr2001.github.io/beacondigest/notebooks/2021/07/19/measuring_decentralization.html
+- Exploring the Lido Protocol, S Sridhar, https://shsr2001.github.io/beacondigest/notebooks/2021/07/05/staking_pools.html
+- Oceanic games revisited, S Sridhar, https://shsr2001.github.io/beacondigest/notebooks/2021/06/21/oceanic2.html
+- Oceanic games in PoS Ethereum, S Sridhar, https://shsr2001.github.io/beacondigest/notebooks/2021/06/07/oceanic.html
+- The Beacon Chain Digest - May 24th, S Sridhar, https://shsr2001.github.io/beacondigest/notebooks/2021/05/24/digest.html
+
+# Talks and Presentations 
+
+- [WINE 2020, Workshop in Game Theory and Blockchain](https://www.youtube.com/watch?v=ll3IuOr1VSw)
+- [FOSSASIA OpenTech Summit 2021](https://www.youtube.com/watch?v=gZHHr82qeiM&list=PLzZVLecTsGpLJimYhW1vsxb8IsnLDuYVO&index=38)
+- [Singapore Blockchain Village, SWITCH 2020](https://bit.ly/3oIY6Um)
