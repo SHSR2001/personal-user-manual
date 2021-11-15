@@ -1,42 +1,58 @@
 ## About Me
 
-Originally from Bangalore, India, I am currently a second year undergraduate studying Engineering Systems Design at the Singapore University of Technology and Design with a focus on Business Analytics. I have a keen interest in Blockchain Technology, especially in the intersection of Game Theory and Blockchain. I also am really keen on learning more about the potential use cases of Blocklchain technology in the industry. In my free time I love to play the drums and listen to rock music! My other hobbies include struggling to cook a simple meal in the kitchen!
+Originally from Bangalore, India, I am currently a final year undergraduate studying Engineering Systems Design at the Singapore University of Technology and Design with a minor in Computer Science. I am also currently working as a Research Assistant at the Ethereum Foundation, under the Robust Incentives Group. I have a keen interest in Blockchain Technology, specifically in Blockchain Consensus, Incentive Design, Cryptoeconomics and Game Theory! I also am really keen on learning more about Cryptography and Distributed Systems. My long-term goal is to design a Blockchain protocol that can sufficiently address current problems in security, privacy and scalability.
 
-## How to Contact Me
+Previously, I worked at Tribe Academy - a dedicated educational institute curated for aspiring developers looking to propel their career in deep-tech (With a focus in Blockchain), as a product associate. I had the opportunity to plan selection processes, conducting interviews, and evaluating participants for courses and to analyze and conducti research on industry best practices, training and education initiatives, skills frameworks, and content delivery tools. I also had the immense pleasure of deliviring a Blockchain course in the international [FOSSASIA OPENTECH SUMMIT](https://www.youtube.com/watch?v=gZHHr82qeiM&list=PLzZVLecTsGpLJimYhW1vsxb8IsnLDuYVO&index=38).  
 
-I prefer being contacted on Whatsapp or Telegram for any urgent communication. However when possible I prefer to settle things over a Google meets or simple phone call so that it is easier to articulate and communicate the point accross more easily. I prefer to follow up every call with a summary of the key points discussed over a message on Telegram/Whatsapp for future reference. I may reply to emails a lot slower due to the fact that it takes longer and bit more effort to craft an email with the right format etc. 
+I have also co-authored a [self paced course on Blockchain Technology](https://self-paced-course.opennodes.com/)!
 
-## Preferred Working Style
+## My Work at the Ethereum Foundation 
 
-* I prefer to have a set of clear cut goals and deliverables that need to be completed by the end of the day so that I can plan and organise my work a lot more systematically 
-* In general, I like to have my work planned out (But not to the second) and would always work towards meeting the days target no matter however longer I would need to work and finish it becuase if I have some backlog from the previous days it really bothers me 
-* Given the option, I sometimes might like to work on site rather than from home as that would give me a change in envorinment from the university hostel which I do need very much from time to time 
-* I would generally follow up with my supervisors on a day to day basis giving a summary of what I have done for the day
-* I generally do prefer the hustle lifestyle over a slow paced one since such an environment would always keep me on my toes and give me a sense of purpose and fullfilment 
-* I would love to get to know my co-workers on a more personal note by going out with them for meals and really connecting with them better
-* I also really appreciate being given the opportunity of being entrepreneurial while still being a part of a larger organisation
+As an RA for the Ethereum Foundation, I have the chance to collaborate with some of the leading minds in the industry and take part in regular research discussions with them where we dissect papers spanning across various topics in Blockchain ranging from cryptoeconomics, to cryptography and classical consensus. Ever since I have joined the Foundation, I have had the privilege of working on three exciting long term projects
 
-## What Motivates Me
+### Beacon Digest 
 
-Seeing my work being put to use and having impact within and outside the organization is what really drives me! Knowing that I am an indispensable resource to an organization is what gives what motivates me to keep at my work. I am really passionate about learning new things especially in the areas I am interested in exploring and I do enjoy a challenge every now and then!
+- The aim of the project is to use data analytics tools to monitor the newly launched beacon chain metrics, study the dynamics in the system as they play out, and diagnose issues relating to proof-of-stake consensus. 
+- As a part of this project, I have released several [research notebooks](https://shsr2001.github.io/beacondigest/) which were peer reviewed by prominent researchers in the field such as Vitalik Buterin.
+-  A lot of pre-existing publications and papers were used to orient the analysis in each of these notebooks
 
-## What Demotivates Me
+### BeaconRL
 
-Not being recognized for the effort that I put in and not being taken seriously during meetings and discussions are two things that really demotivate me. That being said if I have genuienly not performed a task up to the expectation I would highly appreciate any feedback on how it can be improved and I really value an honest opinion. 
+- Another major project of mine was BeconRL which aims at building a reinforcement learning based framework for consensus level attack detection on the Ethereum blockchain. 
+- As such, I have successfully built a pipeline that integrates the existing simulation environment used by researchers at the Ethereum Foundation and the commonly used OpenAI Gym RL framework. 
+- We are currently in the process of running various experiments to train off the shelf RL models to detect previously known attacks on the blockchain
 
-## My Values (and what I value in others)
+### EIP-1559
 
-* Empathy is something that I really value in leaders and co-workers. Being understanding to one's situation and responding accordingly is in my opinion a true mark of a leader.
-* As mentioned before, honest feedback and opinions is also something that I really value 
+Finally, a major part of my work is also focused at analysing on-chain mempool data under various circumstances and studying the effects of a varying learning rate on Ethereum’s transaction fee market, post the famous London hard fork. 
 
-## My Blind Spots
+I have co-authored a **research paper** on the topic and am in the process of publishing another one in a few days yime 
 
-* Social anxiety is one blind spot of mine. Sometimes in meeting I might not know what to say or how it is appropriate to react. In other situations the conversations that I sport might easily go dry because I might not know what to say next to keep the ball rolling.
-* Another blind spot of mine is that sometimes I tend to overcommit and sign up for too many things. While I do try my absolute best to ensure that I keep up my end of the bargain sometimes when things get too much to handle I would need to compramise on the smaller things.
+## Past Research Experience 
+
+### Resource Allocation and the Blockchain Mining Economy
+
+- I previously had the preiviledge to work as an Undergraduate Student Researcher at the Algorithmic Game Theory and Dynamical Systems research group to investigate the stability of different Blockchain ecosystems using formal mathematical and economical models.
+- Some of my tasks included:
+  - Observing the blockchain ecosystem and collect the necessary data to motivate our research.
+  - Developing formal mathematical and economical models to describe the interactions that occur between the validators/miners in the ecosystem.
+  - Running extensive simulations to trace the system experimentally beyond the analytically tractable scenarios.
+  - Using ML/AI tools to understand large scale multi-agent systems
 
 
-## Other
+## Technical Projects 
 
-* I love coffee a lot especially a good cappuccino and a latte. 
-* I love pets especially really cute puppies and kittens 
-* I easily bond with anyone with a great taste in music xD
+### Port Optimization using Splinter and Hyperledger Fabric
+
+- I got the oppoortunity to work with the well-reputed multinational corporation Cargill in an industry practicum aimed at port optimization.
+- I lead the technical team to develop a solution for streamlining supply chain information sharing using Distributed Technology. 
+- We built a proof-of-concept using Hyperledger Fabric and Splinter - Cargill’s open source privacy-focused platform for communication and transactions between organisations in just 2 weeks!
+
+**We got featured Showcased at the [Singapore Fintech Festival](https://bit.ly/3oIY6Um) alongside other digital consulting projects with IBM**
+
+### ZilGAM
+
+- I led a team of 5 to build a web platform for generative art and music tokenized by NFTs on the Zilliqa blockchain.
+- We received a grant of SGD 10,500 from Zilliqa Research for the project
+- It was a tremendous learning opportunity for me to get exposed to a number of cool and interesting aspects of leading a project from the idea conceptualization to the team recruitment, and the more technical smart contract development and web interface wireframe development.
+
