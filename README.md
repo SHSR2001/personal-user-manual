@@ -62,7 +62,7 @@ I have co-authored a **research paper** on the topic and am in the process of pu
 
 - Transaction Fees on a Honeymoon: Ethereum's EIP-1559 One Month Later, D. Reijsbergen, S. Sridhar, B. Monnot, S. Leonardos, S. Skoulakis, G. Piliouras. **To appear in The 4th IEEE International Conference on Blockchain, Melbourne, Australia.** [arxiv](https://arxiv.org/abs/2110.04753)
 - 
-- Allocation of Mining Resources in the Blockchain Economy, S. Leonardos, S. Sridhar, Y.K Chueng, G. Piliouras. **Appeared in WINE 2020, Workshop in Game Theory and Blockchain ** [official](https://econcs.pku.edu.cn/wine2020/wine2020/Workshop/GTiB20_paper_1.pdf) [presentation](https://www.youtube.com/watch?v=ll3IuOr1VSw)
+- Allocation of Mining Resources in the Blockchain Economy, S. Leonardos, S. Sridhar, Y.K Chueng, G. Piliouras. **Appeared in WINE 2020, Workshop in Game Theory and Blockchain** [official](https://econcs.pku.edu.cn/wine2020/wine2020/Workshop/GTiB20_paper_1.pdf) [presentation](https://www.youtube.com/watch?v=ll3IuOr1VSw)
 
 ### Ongoing Work
 
