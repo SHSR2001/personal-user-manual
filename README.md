@@ -15,13 +15,13 @@ I have also co-authored a [self paced course on Blockchain Technology](https://s
 
 # Navigations
 
-1) [My Work at the Ethereum Foundation](#My Work at the Ethereum Foundation)
-2) [Past Research Experience](#Past Research Experience)
-3) [Technical Projects](#Technical Projects)
+1) [My Work at the Ethereum Foundation](#My)
+2) [Past Research Experience](#Past)
+3) [Technical Projects](#Technical)
 4) [Publications](#Publications)
-5) [Invited Talks and Presentations](#Talks and Presentations)
+5) [Invited Talks and Presentations](#Talks)
 
-# My Work at the Ethereum Foundation 
+# My Work at the Ethereum Foundation <a name="My">
 
 As an RA for the Ethereum Foundation, I have the chance to collaborate with some of the leading minds in the industry and take part in regular research discussions with them where we dissect papers spanning across various topics in Blockchain ranging from cryptoeconomics, to cryptography and classical consensus. Ever since I have joined the Foundation, I have had the privilege of working on three exciting long term projects
 
@@ -43,7 +43,7 @@ Finally, a major part of my work is also focused at analysing on-chain mempool d
 
 I have co-authored a **research paper** on the topic and am in the process of publishing another one in a few days yime 
 
-# Past Research Experience 
+# Past Research Experience <a name="Past">
 
 ### Resource Allocation and the Blockchain Mining Economy
 
@@ -55,7 +55,7 @@ I have co-authored a **research paper** on the topic and am in the process of pu
   - Using ML/AI tools to understand large scale multi-agent systems
 
 
-# Technical Projects 
+# Technical Projects <a name="Technical">
 
 ### Port Optimization using Splinter and Hyperledger Fabric
 
@@ -90,7 +90,7 @@ I have co-authored a **research paper** on the topic and am in the process of pu
 - _Oceanic games in PoS Ethereum, S Sridhar_, https://shsr2001.github.io/beacondigest/notebooks/2021/06/07/oceanic.html
 - _The Beacon Chain Digest - May 24th_, S Sridhar, https://shsr2001.github.io/beacondigest/notebooks/2021/05/24/digest.html
 
-# Talks and Presentations 
+# Talks and Presentations <a name="Talks">
 
 - [WINE 2020, Workshop in Game Theory and Blockchain](https://www.youtube.com/watch?v=ll3IuOr1VSw)
 - [FOSSASIA OpenTech Summit 2021](https://www.youtube.com/watch?v=gZHHr82qeiM&list=PLzZVLecTsGpLJimYhW1vsxb8IsnLDuYVO&index=38)
