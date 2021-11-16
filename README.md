@@ -15,11 +15,11 @@ I have also co-authored a [self paced course on Blockchain Technology](https://s
 
 # Navigations
 
-[My Work at the Ethereum Foundation](# My Work at the Ethereum Foundation)
-[Past Research Experience](# Past Research Experience)
-[Technical Projects](# Technical Projects)
-[Publications](# Publications)
-[Invited Talks and Presentations](# Talks and Presentations)
+1) [My Work at the Ethereum Foundation](#My Work at the Ethereum Foundation)
+2) [Past Research Experience](#Past Research Experience)
+3) [Technical Projects](#Technical Projects)
+4) [Publications](#Publications)
+5) [Invited Talks and Presentations](#Talks and Presentations)
 
 # My Work at the Ethereum Foundation 
 
