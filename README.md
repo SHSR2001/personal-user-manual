@@ -1,11 +1,11 @@
 # Shyam Sridhar
 
 **Undergraduate Student**\
-Engineering Systems and Design (with a minor in Computer Science)\
-Singapore University of Technology and Design
+_Engineering Systems and Design (with a minor in Computer Science)_\
+_Singapore University of Technology and Design_
 
 **Research Assistant**\
-Ethereum Foundation
+_Ethereum Foundation_
 
 I have a keen interest in Blockchain Technology, specifically in Blockchain Consensus, Incentive Design, Cryptoeconomics and Game Theory! I also am really keen on learning more about Cryptography and Distributed Systems. My long-term goal is to design a Blockchain protocol that can sufficiently address current problems in security, privacy and scalability.
 
@@ -13,7 +13,14 @@ Previously, I worked at Tribe Academy - a dedicated educational institute curate
 
 I have also co-authored a [self paced course on Blockchain Technology](https://self-paced-course.opennodes.com/)!
 
-[TOC]
+# Navigations
+
+[My Work at the Ethereum Foundation](# My Work at the Ethereum Foundation)
+[Past Research Experience](# Past Research Experience)
+[Technical Projects](# Technical Projects)
+[Publications](# Publications)
+[Invited Talks and Presentations](# Talks and Presentations)
+
 # My Work at the Ethereum Foundation 
 
 As an RA for the Ethereum Foundation, I have the chance to collaborate with some of the leading minds in the industry and take part in regular research discussions with them where we dissect papers spanning across various topics in Blockchain ranging from cryptoeconomics, to cryptography and classical consensus. Ever since I have joined the Foundation, I have had the privilege of working on three exciting long term projects
