@@ -41,7 +41,7 @@ As an RA for the Ethereum Foundation, I have the chance to collaborate with some
 
 Finally, a major part of my work is also focused at analysing on-chain mempool data under various circumstances and studying the effects of a varying learning rate on Ethereum’s transaction fee market, post the famous London hard fork. 
 
-I have co-authored a **research paper** on the topic and am in the process of publishing another one in a few days yime 
+I have co-authored a **research paper** on the topic and am in the process of drafting another
 
 # Past Research Experience <a name="Past">
 
