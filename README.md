@@ -13,6 +13,7 @@ Previously, I worked at Tribe Academy - a dedicated educational institute curate
 
 I have also co-authored a [self paced course on Blockchain Technology](https://self-paced-course.opennodes.com/)!
 
+[POC]
 # My Work at the Ethereum Foundation 
 
 As an RA for the Ethereum Foundation, I have the chance to collaborate with some of the leading minds in the industry and take part in regular research discussions with them where we dissect papers spanning across various topics in Blockchain ranging from cryptoeconomics, to cryptography and classical consensus. Ever since I have joined the Foundation, I have had the privilege of working on three exciting long term projects
