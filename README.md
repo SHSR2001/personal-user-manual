@@ -47,7 +47,7 @@ I have co-authored a **research paper** on the topic and am in the process of dr
 
 ### Resource Allocation and the Blockchain Mining Economy
 
-- I previously had the preiviledge to work as an Undergraduate Student Researcher at the Algorithmic Game Theory and Dynamical Systems research group to investigate the stability of different Blockchain ecosystems using formal mathematical and economical models.
+- I previously had the privilege to work as an Undergraduate Student Researcher at the Algorithmic Game Theory and Dynamical Systems research group to investigate the stability of different Blockchain ecosystems using formal mathematical and economical models.
 - Some of my tasks included:
   - Observing the blockchain ecosystem and collect the necessary data to motivate our research.
   - Developing formal mathematical and economical models to describe the interactions that occur between the validators/miners in the ecosystem.
