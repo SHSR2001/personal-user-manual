@@ -71,7 +71,7 @@ I have co-authored a **research paper** on the topic and am in the process of pu
 - We received a grant of SGD 10,500 from Zilliqa Research for the project
 - It was a tremendous learning opportunity for me to get exposed to a number of cool and interesting aspects of leading a project from the idea conceptualization to the team recruitment, and the more technical smart contract development and web interface wireframe development.
 
-# Publications
+# Publications <a name="Publications">
 
 ### Conference Publications
 
