@@ -9,7 +9,7 @@ _Ethereum Foundation_
 
 I have a keen interest in Blockchain Technology, specifically in Blockchain Consensus, Incentive Design, Cryptoeconomics and Game Theory! I also am really keen on learning more about Cryptography and Distributed Systems. My long-term goal is to design a Blockchain protocol that can sufficiently address current problems in security, privacy and scalability.
 
-Previously, I worked at Tribe Academy - a dedicated educational institute curated for aspiring developers looking to propel their career in deep-tech (With a focus in Blockchain), as a product associate. I had the opportunity to plan selection processes, conducting interviews, and evaluating participants for courses and to analyze and conducti research on industry best practices, training and education initiatives, skills frameworks, and content delivery tools. I also had the immense pleasure of deliviring a Blockchain course in the international [FOSSASIA OPENTECH SUMMIT](https://www.youtube.com/watch?v=gZHHr82qeiM&list=PLzZVLecTsGpLJimYhW1vsxb8IsnLDuYVO&index=38).  
+Previously, I worked at Tribe Academy - a dedicated educational institute curated for aspiring developers looking to propel their career in deep-tech (With a focus in Blockchain), as a curriculumn associate. I also had the immense pleasure of deliviring a Blockchain course in the international [FOSSASIA OPENTECH SUMMIT](https://www.youtube.com/watch?v=gZHHr82qeiM&list=PLzZVLecTsGpLJimYhW1vsxb8IsnLDuYVO&index=38).  
 
 I have also co-authored a [self paced course on Blockchain Technology](https://self-paced-course.opennodes.com/)!
 
