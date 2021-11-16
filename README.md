@@ -13,7 +13,7 @@ Previously, I worked at Tribe Academy - a dedicated educational institute curate
 
 I have also co-authored a [self paced course on Blockchain Technology](https://self-paced-course.opennodes.com/)!
 
-# Navigations
+# Table of Content
 
 1) [My Work at the Ethereum Foundation](#My)\
 2) [Past Research Experience](#Past)\
