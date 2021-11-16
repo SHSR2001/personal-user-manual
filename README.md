@@ -60,13 +60,12 @@ I have co-authored a **research paper** on the topic and am in the process of pu
 
 ### Conference Publications
 
-- Transaction Fees on a Honeymoon: Ethereum's EIP-1559 One Month Later, D. Reijsbergen, S. Sridhar, B. Monnot, S. Leonardos, S. Skoulakis, G. Piliouras. **To appear in The 4th IEEE International Conference on Blockchain, Melbourne, Australia.** [arxiv](https://arxiv.org/abs/2110.04753)
-- 
-- Allocation of Mining Resources in the Blockchain Economy, S. Leonardos, S. Sridhar, Y.K Chueng, G. Piliouras. **Appeared in WINE 2020, Workshop in Game Theory and Blockchain** [official](https://econcs.pku.edu.cn/wine2020/wine2020/Workshop/GTiB20_paper_1.pdf) [presentation](https://www.youtube.com/watch?v=ll3IuOr1VSw)
+- _Transaction Fees on a Honeymoon: Ethereum's EIP-1559 One Month Later_, D. Reijsbergen, S. Sridhar, B. Monnot, S. Leonardos, S. Skoulakis, G. Piliouras. **To appear in The 4th IEEE International Conference on Blockchain, Melbourne, Australia.** [arxiv](https://arxiv.org/abs/2110.04753)
+- _Allocation of Mining Resources in the Blockchain Economy_, S. Leonardos, S. Sridhar, Y.K Chueng, G. Piliouras. **Appeared in WINE 2020, Workshop in Game Theory and Blockchain** [official](https://econcs.pku.edu.cn/wine2020/wine2020/Workshop/GTiB20_paper_1.pdf) [presentation](https://www.youtube.com/watch?v=ll3IuOr1VSw)
 
 ### Ongoing Work
 
-- From Griefing to Stability in Blockchain Mining Economies, Y.K Chueng, S. Leonardos, G. Piliouras ,S. Sridhar. [arxiv](https://arxiv.org/abs/2106.12332)
+- _From Griefing to Stability in Blockchain Mining Economies_, Y.K Chueng, S. Leonardos, G. Piliouras ,S. Sridhar. [arxiv](https://arxiv.org/abs/2106.12332)
 
 ### Other Publications 
 
