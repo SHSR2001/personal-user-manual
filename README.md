@@ -80,7 +80,7 @@ I have co-authored a **research paper** on the topic and am in the process of dr
 
 ### Ongoing Work
 
-- _From Griefing to Stability in Blockchain Mining Economies_, Y.K Chueng, S. Leonardos, G. Piliouras ,S. Sridhar. [arxiv](https://arxiv.org/abs/2106.12332)
+- _From Griefing to Stability in Blockchain Mining Economies_, Y.K Chueng, S. Leonardos, G. Piliouras ,S. Sridhar. [[arxiv](https://arxiv.org/abs/2106.12332)]
 
 ### Other Publications 
 
