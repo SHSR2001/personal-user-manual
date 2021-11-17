@@ -84,14 +84,15 @@ I have co-authored a **research paper** on the topic and am in the process of dr
 
 ### Other Publications 
 
-- _Measuring Decentralization in PoS Ethereum_, S. Sridhar, [https://shsr2001.github.io/beacondigest/notebooks/2021/07/19/measuring_decentralization.html](https://shsr2001.github.io/beacondigest/notebooks/2021/07/19/measuring_decentralization.html)
-- _Exploring the Lido Protocol_, S. Sridhar, [https://shsr2001.github.io/beacondigest/notebooks/2021/07/05/staking_pools.html](https://shsr2001.github.io/beacondigest/notebooks/2021/07/05/staking_pools.html)
-- _Oceanic games revisited_, S. Sridhar, [https://shsr2001.github.io/beacondigest/notebooks/2021/06/21/oceanic2.html](https://shsr2001.github.io/beacondigest/notebooks/2021/06/21/oceanic2.html)
-- _Oceanic games in PoS Ethereum_, S. Sridhar, [https://shsr2001.github.io/beacondigest/notebooks/2021/06/07/oceanic.html](https://shsr2001.github.io/beacondigest/notebooks/2021/06/07/oceanic.html)
-- _The Beacon Chain Digest - May 24th_, S. Sridhar, [https://shsr2001.github.io/beacondigest/notebooks/2021/05/24/digest.html](https://shsr2001.github.io/beacondigest/notebooks/2021/05/24/digest.html)
+- _Measuring Decentralization in PoS Ethereum_, S. Sridhar, Beacon Digest. [Beacon Digest](https://shsr2001.github.io/beacondigest/notebooks/2021/07/19/measuring_decentralization.html)
+- _Exploring the Lido Protocol_, S. Sridhar, Beacon Digest. [Beacon Digest](https://shsr2001.github.io/beacondigest/notebooks/2021/07/05/staking_pools.html)
+- _Oceanic games revisited_, S. Sridhar, Beacon Digest. [Beacon Digest](https://shsr2001.github.io/beacondigest/notebooks/2021/06/21/oceanic2.html)
+- _Oceanic games in PoS Ethereum_, S. Sridhar, Beacon Digest. [Beacon Digest](https://shsr2001.github.io/beacondigest/notebooks/2021/06/07/oceanic.html)
+- _The Beacon Chain Digest - May 24th_, S. Sridhar, Beacon Digest. [Beacon Digest](https://shsr2001.github.io/beacondigest/notebooks/2021/05/24/digest.html)
 
 # Talks and Presentations <a name="Talks">
 
-- [WINE 2020, Workshop in Game Theory and Blockchain](https://www.youtube.com/watch?v=ll3IuOr1VSw)
+- [EDCON (Community Ethereum Development Conference ) 2021](https://www.youtube.com/watch?v=mwxK7tEtcIM)
+  [WINE 2020, Workshop in Game Theory and Blockchain](https://www.youtube.com/watch?v=ll3IuOr1VSw)
 - [FOSSASIA OpenTech Summit 2021](https://www.youtube.com/watch?v=gZHHr82qeiM&list=PLzZVLecTsGpLJimYhW1vsxb8IsnLDuYVO&index=38)
 - [Singapore Blockchain Village, SWITCH 2020](https://bit.ly/3oIY6Um)
