@@ -93,6 +93,6 @@ I have co-authored a **research paper** on the topic and am in the process of dr
 # Talks and Presentations <a name="Talks">
 
 - [EDCON (Community Ethereum Development Conference ) 2021](https://www.youtube.com/watch?v=mwxK7tEtcIM)
-  [WINE 2020, Workshop in Game Theory and Blockchain](https://www.youtube.com/watch?v=ll3IuOr1VSw)
+- [WINE 2020, Workshop in Game Theory and Blockchain](https://www.youtube.com/watch?v=ll3IuOr1VSw)
 - [FOSSASIA OpenTech Summit 2021](https://www.youtube.com/watch?v=gZHHr82qeiM&list=PLzZVLecTsGpLJimYhW1vsxb8IsnLDuYVO&index=38)
 - [Singapore Blockchain Village, SWITCH 2020](https://bit.ly/3oIY6Um)
