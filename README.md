@@ -85,7 +85,7 @@ I have co-authored a **research paper** on the topic and am in the process of dr
 ### Other Publications 
 
 - _Measuring Decentralization in PoS Ethereum_, S Sridhar, [https://shsr2001.github.io/beacondigest/notebooks/2021/07/19/measuring_decentralization.html](https://shsr2001.github.io/beacondigest/notebooks/2021/07/19/measuring_decentralization.html)
-- _Exploring the Lido Protocol_, S Sridhar_ [https://shsr2001.github.io/beacondigest/notebooks/2021/07/05/staking_pools.html](https://shsr2001.github.io/beacondigest/notebooks/2021/07/05/staking_pools.html)
+- _Exploring the Lido Protocol_, S Sridhar, [https://shsr2001.github.io/beacondigest/notebooks/2021/07/05/staking_pools.html](https://shsr2001.github.io/beacondigest/notebooks/2021/07/05/staking_pools.html)
 - _Oceanic games revisited_, S Sridhar [https://shsr2001.github.io/beacondigest/notebooks/2021/06/21/oceanic2.html](https://shsr2001.github.io/beacondigest/notebooks/2021/06/21/oceanic2.html)
 - _Oceanic games in PoS Ethereum_, S Sridhar, [https://shsr2001.github.io/beacondigest/notebooks/2021/06/07/oceanic.html](https://shsr2001.github.io/beacondigest/notebooks/2021/06/07/oceanic.html)
 - _The Beacon Chain Digest - May 24th_, S Sridhar, [https://shsr2001.github.io/beacondigest/notebooks/2021/05/24/digest.html](https://shsr2001.github.io/beacondigest/notebooks/2021/05/24/digest.html)
